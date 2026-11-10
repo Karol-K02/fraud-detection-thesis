@@ -4,7 +4,6 @@ creditcard.csv
 # Files the notebook writes when it runs
 comparison_results.csv
 confusion_matrices.png
-pr_curves.png
 
 # Python / Jupyter
 .ipynb_checkpoints/
